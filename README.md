@@ -2,7 +2,7 @@
 
 Amaclone is a personal project that aims to replicate the core functionalities of a popular online e-commerce platform. This project serves as a learning exercise and showcases my web development skills. It is not intended for commercial use.
 
-![Amaclone Screenshot](screenshot.png)
+![Amaclone Screenshot](https://www.sourcecodester.com/sites/default/files/images/Satyam%20Raj/amc.png)
 
 ## Table of Contents
 
